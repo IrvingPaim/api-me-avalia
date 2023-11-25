@@ -14,7 +14,8 @@
   "Country": "United States",
   "Awards": "Nominated for 1 Oscar. 15 wins & 60 nominations total",
   "Poster": "https://m.media-amazon.com/images/M/MV5BNjM0NTc0NzItM2FlYS00YzEwLWE0YmUtNTA2ZWIzODc2OTgxXkEyXkFqcGdeQXVyNTgwNzIyNzg@._V1_SX300.jpg",
-  "Ratings": [
+  "Ratings": 
+  [
    {
     "Source": "Internet Movie Database",
     "Value": "7.6/10"
@@ -55,7 +56,8 @@
   "Country": "United States",
   "Awards": "Won 3 Oscars. 44 wins & 27 nominations total",
   "Poster": "https://m.media-amazon.com/images/M/MV5BMjM2MDgxMDg0Nl5BMl5BanBnXkFtZTgwNTM2OTM5NDE@._V1_SX300.jpg",
-  "Ratings": [
+  "Ratings": 
+  [
    {
     "Source": "Internet Movie Database",
     "Value": "8.2/10"
@@ -95,7 +97,8 @@
   "Country": "United Kingdom",
   "Awards": "N/A",
   "Poster": "https://m.media-amazon.com/images/M/MV5BNTM5NTg3NjI3MF5BMl5BanBnXkFtZTcwNDIxNTMyMQ@@._V1_SX300.jpg",
-  "Ratings": [
+  "Ratings": 
+  [
    {
     "Source": "Internet Movie Database",
     "Value": "8.3/10"
